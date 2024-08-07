@@ -6,11 +6,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A Passionate full stack Web Developer
 -------------------------------------
 
-I'm a Full Stack Web developer , I have learnt HTML5 , CSS3 , and JavaScript and I am also a Crypto Enthusiast
+I'm a Full Stack Web developer , I have learnt HTML5 , CSS3 , and JavaScript , Nodejs Express , MongoDB and Reactand I am also a Crypto Enthusiast
 
 * 🌍  I'm based in India
-* 🧠  I'm learning Blockchain Development
-* 🤝  I'm open to collaborating on Blockchain Development
+* 🤝  I'm open to collaborating on  Development Projects
 * ⚡  I'm Bullish on crypto😅
 
 <a href="https://www.twitter.com/AjayWeb3 " target="_blank" rel="noreferrer"><img
